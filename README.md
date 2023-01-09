@@ -153,16 +153,13 @@ electronics.
 > ![](vertopal_c4f090e5b0b04dba8f557977d83b2c0f/media/image29.png)
 **Download Gerber** file from **HERE.**
 
-**New users will also get some coupons while registering atvia this blue
+**New users will also get some coupons while registering at  [JLCPCB]((https://www.jlcpcb.com/IAT) via this blue
 link.**
 
 **Conclusion:**
 
 **Thank you for reading this guide, hopefully, this guide provides full
-steps to help you to create your own\"DIY \"DIY**
-
-**Variable Power Supply\"**. **If you have any questions please post
-them in the comment section below. If you have any questions please post
+steps to help you to create your own DIY Variable Power Supply\"**. **If you have any questions please post
 them in the comment section below.**
 
 ![](vertopal_c4f090e5b0b04dba8f557977d83b2c0f/media/image30.png)
